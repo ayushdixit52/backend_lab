@@ -1,0 +1,30 @@
+.box{
+    height: 150px;
+    width: 100vw;
+    color: white;
+    background-color: black;
+    
+   
+
+
+}
+h1{
+    width: 40%;
+    padding-top: 30px;
+    padding-left: 20px;
+    float: left;
+    
+    
+
+}
+.main{
+    width: 50%;
+    float: right;
+    
+    display: flex;
+    /* align-items: center; */
+    list-style: none;
+    justify-content: space-between;
+    margin-top:50px;   
+}
+

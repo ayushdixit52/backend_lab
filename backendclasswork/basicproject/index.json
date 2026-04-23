@@ -1,0 +1,12 @@
+{
+    "name":"ayush",
+    "id":241,
+    "section":"FC",
+    "ISActive":true,
+    "language":["english","punjabi","hindi"],
+    "youknow":{
+        "java":true,
+        "javascript":false
+    },
+    "isplaced":null
+}
